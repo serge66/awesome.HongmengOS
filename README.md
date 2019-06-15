@@ -1,6 +1,3 @@
-# awesome.HongmengOS
-A curated list of awesome things related to Hongmeng OS
-
 ## Awesome HongmengOS
 
 > A curated list of awesome things related to HongmengOS
@@ -18,20 +15,41 @@ A curated list of awesome things related to Hongmeng OS
 
 
 ### News
-
-### Devices
-- [Device compatibility]
-
+- []
 
 ### Download
 - [Mirrors]
 
-### Commercial Support
-- [Questions]
+### Hardware drivers
+- [Device compatibility]
+- [Standards & Protocols] 
+- [Hareware Quality Specification]
+- [Driver Development Kit]
+- [Driver Samples]
+- [Debugging Tools]
+- [Security]
+- [5th Gen Drivers and Firmware]
+- [Boot and UEFI]
+- [ACPI/SoC]
+- [Wi-Fi]
+- [USB]
+- [Printer]
+
 
 ### Developer Tools
 - [Compiler]
 - [SDK]
 - [IDE]
 ### Applications
+
+
+### Community
+- [Questions]
+
+### Books
+
+
+
+
+
 
